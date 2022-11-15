@@ -1,0 +1,151 @@
+/*GENERAL*/
+
+*{
+    padding: 0;
+    color: white;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+.container {
+    width: 980px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+}
+
+h4 {
+
+}
+
+p {
+    line-height: 10px;
+}
+
+/*header*/
+
+.compteur_div{
+    height: 50px;
+    width: 900px;
+}
+
+.compteur_div div{
+    display: inline-block;
+}
+
+
+header {
+    height: 100px;
+}
+
+.title{
+    font-size: 45px;
+}
+
+.style_point{
+    color: red;
+}
+
+header h1 {
+    float: left;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+header nav {
+    float: right;
+    margin-top: 42px;
+}
+
+header nav ul li {
+    display: inline-block;
+}
+
+header nav ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+
+/*MAIN IMAGE*/
+#main-image {
+    height: 580px;
+    margin-top: 15px;
+    background: url('images/Prince-Donald_vortex_black_hole_778d2f05-0990-42aa-a19b-1ac701fa100d.png') center;
+}
+
+#main-image h2 {
+    margin: 0;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 250px;
+}
+
+.info_button {
+    display: block;
+    width: 160px;
+    height: 50px;
+    background-color: red;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 auto;
+    margin-top: 15px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 100px;
+}
+
+
+/*MY ART PRESENTATION*/
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+#art_presentation ul {
+    margin: 20px 0;
+    display:inline-block;
+}
+
+#art_presentation ul li {
+    width: 250px;
+    float: left;
+    padding-right: 56px;
+    margin-right: 20px;
+}
+
+#art_1 {
+    
+}
+
+#art_2 {
+    
+}
+
+
+/*CONTACT*/
+
+
+
+
+/*FOOTER*/
+
+   
