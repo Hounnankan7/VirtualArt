@@ -3,8 +3,8 @@
  
  ### Des pages du sites 
  - Zone d'accueil
- <img src="https://github.com/Hounnankan7/VirtualArt/blob/main/virtual_readme/1.PNG>
+ <img src="https://github.com/Hounnankan7/VirtualArt/blob/main/virtual_readme/1.PNG">
  
  - Zone présentation des images
- <img src="https://github.com/Hounnankan7/VirtualArt/blob/main/virtual_readme/2.PNG>
+ <img src="https://github.com/Hounnankan7/VirtualArt/blob/main/virtual_readme/2.PNG">
  
